@@ -1,0 +1,5 @@
+Username: Q2VBpO03Vq
+Database name: Q2VBpO03Vq
+Password: 8wTUfrR8U4
+Server: remotemysql.com
+Port: 3306
